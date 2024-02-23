@@ -9,3 +9,7 @@ Intersted in Languages C++ and Python.
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+- [x] Get Reel on @chitkarau on Instagram
+- [ ] Complete my BCA
+- [ ] Have a good job.
