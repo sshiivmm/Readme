@@ -5,4 +5,4 @@ Bachelor's Of Computer Application
 Looking for Internship in Software Engineering
 
 Intersted in Languages C++ and Python.
-![Silence](https://octodex.github.com/yogitocat)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
