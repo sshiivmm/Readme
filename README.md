@@ -2,4 +2,6 @@
 ## Chitkara University🎓
 Bachelor's Of Computer Application
 
-### Exploring Github!
+Looking for Internship in Software Engineering
+
+Intersted in Languages C++ and Python.
