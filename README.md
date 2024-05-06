@@ -9,6 +9,6 @@ Want to be Happy asf.
 
 <img src = "https://pre00.deviantart.net/563a/th/pre/i/2012/244/0/d/lunatic_fanart_by_lataedelan-d5d5unb.jpg" width = "250">
 
-## Have a joyful Journey to my Profile
+## Have a joyful Journey to my Profile 
 
-- [ ] I want to be the Happiest Person in th world.
+I am the Happiest Person in the world.
